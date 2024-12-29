@@ -1,4 +1,4 @@
-package com.beyzayoruk.week11;
+package tr.edu.mu.ceng.mynotes;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.beyzayoruk.week11", appContext.getPackageName());
+        assertEquals("tr.edu.mu.ceng.mynotes", appContext.getPackageName());
     }
 }

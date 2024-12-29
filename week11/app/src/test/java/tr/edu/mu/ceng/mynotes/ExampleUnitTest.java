@@ -1,4 +1,4 @@
-package com.beyzayoruk.week11;
+package tr.edu.mu.ceng.mynotes;
 
 import org.junit.Test;
 
